@@ -1,2 +1,2 @@
-# google_lens_clone
+# feature-predictor
 image classifier using ml
